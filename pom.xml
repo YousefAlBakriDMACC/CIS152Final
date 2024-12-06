@@ -9,7 +9,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>22</maven.compiler.source>
         <maven.compiler.target>22</maven.compiler.target>
-        <exec.mainClass>edu.dmacc.cis152.CIS152</exec.mainClass>
+        <exec.mainClass>edu.dmacc.cis152.module15.final_project.submittable.Driver</exec.mainClass>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter -->
